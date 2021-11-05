@@ -44,4 +44,8 @@ and then start working
 
 GitHub Repository Link : https://github.com/Mohammad-Haroun-97/server-deployment-practice 
 
-Heroku Link : https://haroun-server-deploy-prod.herokuapp.com/ 
+Heroku Link (home route ) : https://haroun-server-deploy-prod.herokuapp.com/ 
+
+Heroku Link (data route) : https://haroun-server-deploy-prod.herokuapp.com/data
+# UML
+![](lab01-UML.PNG)
